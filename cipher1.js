@@ -39,4 +39,4 @@ function cipher1(key,plaintext) {
     }
     return codeStr;
 }   
-console.log(cipher1(13,"be fruitful and multiply"));
+console.log(cipher1(3,"put plaintext here"));
